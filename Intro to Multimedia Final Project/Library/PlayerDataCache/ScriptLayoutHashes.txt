@@ -1,4 +1,4 @@
-OSXStandalone
+WindowsStandalone
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationPlayableAsset
 970a95104359198fe1a98ef48655de8c UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationTrack
 8144169769d51429c4aedc8b0f92d47b UnityEngine.Timeline.dll:UnityEngine.Timeline.AnimationPlayableAsset
@@ -146,3 +146,4 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 42a5019be38709d626053b5f9d190518 Assembly-CSharp.dll:.OpenCup
 b3b3d2f6d00a8061e64436679cf7ecac Assembly-CSharp.dll:.PushObjects
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.God
+5a2c626df370b4c6c4897b138bdfe0d2 Assembly-CSharp.dll:.ChangeScene
