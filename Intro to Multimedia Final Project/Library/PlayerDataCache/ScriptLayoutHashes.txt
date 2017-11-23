@@ -113,6 +113,7 @@ bc68edb0af574bf79f9550ead8ebae5c UnityEngine.HoloLens.dll:UnityEngine.Audio.Audi
 c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.SpatialMappingCollider
 45f3431f0103c41611e8d4eec3d439df UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.SpatialMappingRenderer
 17415bce72442b51bd0d1de5bbdb936c Assembly-CSharp.dll:.FirstPersonDrifter
+5a2c626df370b4c6c4897b138bdfe0d2 Assembly-CSharp.dll:.ChangeScene
 92b2ae88f70857edc85925db7f1af57a Assembly-CSharp.dll:.CameraZoom
 fd5242a79cfc302e4f333d5f312129d7 Assembly-CSharp.dll:.BillboardObject
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.LockMouse
@@ -146,4 +147,3 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 42a5019be38709d626053b5f9d190518 Assembly-CSharp.dll:.OpenCup
 b3b3d2f6d00a8061e64436679cf7ecac Assembly-CSharp.dll:.PushObjects
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.God
-5a2c626df370b4c6c4897b138bdfe0d2 Assembly-CSharp.dll:.ChangeScene
