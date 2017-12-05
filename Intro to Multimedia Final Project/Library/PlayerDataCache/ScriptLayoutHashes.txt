@@ -1,4 +1,4 @@
-WindowsStandalone
+OSXStandalone
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationPlayableAsset
 970a95104359198fe1a98ef48655de8c UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationTrack
 8144169769d51429c4aedc8b0f92d47b UnityEngine.Timeline.dll:UnityEngine.Timeline.AnimationPlayableAsset
@@ -116,6 +116,7 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 5a2c626df370b4c6c4897b138bdfe0d2 Assembly-CSharp.dll:.ChangeScene
 92b2ae88f70857edc85925db7f1af57a Assembly-CSharp.dll:.CameraZoom
 fd5242a79cfc302e4f333d5f312129d7 Assembly-CSharp.dll:.BillboardObject
+c59982202b2bea19cad7fe43f390a599 Assembly-CSharp.dll:.HideUnlessNear
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.LockMouse
 fc1e0f4d8439d9928083474691511a13 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkAnimator
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Networking.dll:UnityEngine.Networking.NetworkBehaviour
@@ -147,4 +148,3 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 42a5019be38709d626053b5f9d190518 Assembly-CSharp.dll:.OpenCup
 b3b3d2f6d00a8061e64436679cf7ecac Assembly-CSharp.dll:.PushObjects
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.God
-05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.HideUnlessNear

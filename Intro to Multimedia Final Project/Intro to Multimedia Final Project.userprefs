@@ -1,8 +1,9 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Objects\garlicCup\source\OpenCup.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\HideUnlessNear.cs">
     <Files>
-      <File FileName="Assets\Objects\garlicCup\source\OpenCup.cs" Line="33" Column="1" />
+      <File FileName="Assets\Scripts\HideUnlessNear.cs" Line="43" Column="4" />
+      <File FileName="Assets\Objects\garlicCup\source\OpenCup.cs" Line="30" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
