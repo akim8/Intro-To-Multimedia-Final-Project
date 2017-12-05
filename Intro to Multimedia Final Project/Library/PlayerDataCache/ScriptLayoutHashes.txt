@@ -147,3 +147,4 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 42a5019be38709d626053b5f9d190518 Assembly-CSharp.dll:.OpenCup
 b3b3d2f6d00a8061e64436679cf7ecac Assembly-CSharp.dll:.PushObjects
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.God
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.HideUnlessNear

@@ -65,6 +65,7 @@
      <Compile Include="Assets\Scripts\EmptyClass.cs" />
      <Compile Include="Assets\Scripts\God.cs" />
      <Compile Include="Assets\Scripts\HideOnTriggerCollision.cs" />
+     <Compile Include="Assets\Scripts\HideUnlessNear.cs" />
      <Compile Include="Assets\Scripts\PushObjects.cs" />
      <None Include="Assets\Materials\Shaders\HSVRangeShader.shader" />
      <None Include="Assets\Materials\Shaders\3D Text Shader.shader" />
