@@ -3,7 +3,7 @@
 
 ![cover image](cover.png?raw=true)
 
-[Download the latest build here](https://github.com/kim4a/Intro-To-Multimedia-Final-Project/releases)
+[Download the latest build here](https://github.com/akim8/Intro-To-Multimedia-Final-Project/releases)
 
 ## Stuff Used:
  - Unity
