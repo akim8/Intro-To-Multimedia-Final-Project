@@ -12,4 +12,3 @@
  - [KO_OP's Unity tutorial](http://workshops.ko-opmode.com)
  - [Skybox](http://wwwtyro.github.io/space-3d) [generators](https://www.nutty.ca/webgl/skygen/)
  - [Bgm](http://soundbible.com/2083-Crickets-Chirping-At-Night.html) & [sfx](https://freesound.org/people/FairhavenCollection/sounds/349351/)
- - Code stolen from Stack Overflow and Unity forums
